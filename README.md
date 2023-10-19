@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![h4cky-sys GitHub stats](https://github-readme-stats.vercel.app/api?username=h4cky-sys&show_icons=true&theme=midnight-purple)
+![h4cky-sys GitHub stats](https://github-readme-stats.vercel.app/api?username=h4cky-sys&show_icons=true&theme=midnight-purple&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h4cky-sys&hide_progress=true)](https://github.com/h4cky-sys/github-readme-stats)
 
