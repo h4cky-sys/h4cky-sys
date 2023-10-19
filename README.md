@@ -21,6 +21,10 @@
 Telegram:
 Discord:
 X (Twitter):
-<p> Instagram: <img src="https://skillicons.dev/icons?i=Instagram</p>
+<p> 
+  <a Instagram:> 
+    <img src="https://skillicons.dev/icons?i=instagram
+</a>
+</p>
 
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/106864876/179424426-29262e35-ab7b-4701-8ce3-8ed7db3d592b.svg)
