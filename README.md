@@ -1,9 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Hacky and this is my github profile
 
-<!--
-**h4cky-sys/h4cky-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-🔭 i'm currently working on various personal projects 
+- 🔭 i'm currently working on various personal projects 
 - 🌱 i’m currently learning computer engineering 
 - 👯 i’m looking to collaborate with community devs
 
