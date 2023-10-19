@@ -13,7 +13,7 @@
 ### Skills
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,flask,django,selenium,js,html,css,go,git,github,gitlab,docker,powershell,bash,linux,mysql,sqlite,mongodb,vscode,visualstudio,heroku,gcp,azure,aws,vercel,netlify,replit,postman,regex,,md&perline=12" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,flask,django,selenium,js,html,css,go,git,github,gitlab,docker,powershell,bash,linux,mysql,sqlite,mongodb,vscode,visualstudio,heroku,gcp,azure,aws,vercel,netlify,replit,postman,regex,md&perline=12" />
   </a>
 </p>
 
