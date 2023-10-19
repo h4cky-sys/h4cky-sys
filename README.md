@@ -16,3 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/106864876/179424426-29262e35-ab7b-4701-8ce3-8ed7db3d592b.svg)
+
+<p align="center">
+    <img
+        width="100%"
+        src="https://github-readme-stats.vercel.app/api?username=h4cky-sys&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"
+    />
+</p>
