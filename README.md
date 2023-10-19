@@ -18,10 +18,6 @@
 </p>
 
 ### Social
-Telegram:
-Discord:
-X (Twitter):
-Instagram:
 
 
 
