@@ -11,9 +11,9 @@
 
 
 ### Skills
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,html,css,js,github,gitlab,git,docker" />
+    <img src="https://skillicons.dev/icons?i=python,html,css,js,github,gitlab,git,docker,azure,aws,bash,linux" />
   </a>
 </p>
 
