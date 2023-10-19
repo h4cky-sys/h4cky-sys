@@ -23,7 +23,7 @@ Discord:
 X (Twitter):
 <p> 
   <a Instagram:> 
-    <img src="https://skillicons.dev/icons?i=instagram
+    <img src="https://skillicons.dev/icons?i=instagram/>
 </a>
 </p>
 
