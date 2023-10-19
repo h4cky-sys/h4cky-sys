@@ -11,6 +11,10 @@
 
 
 ## Skills
-<img src="https://skillicons.dev/icons?i=python,js,html,css,github,bash,linux,git"
-  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,html,css,js,github,gitlab,git,docker" />
+  </a>
+</p>
+
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/106864876/179424426-29262e35-ab7b-4701-8ce3-8ed7db3d592b.svg)
