@@ -6,7 +6,7 @@
   <em>"F*cking Code..."</em>
 </p>
 
-<a href="mailto:h4ck3r0.sh@gmail.com">
+<a href="mailto:haki69@proton.me">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
